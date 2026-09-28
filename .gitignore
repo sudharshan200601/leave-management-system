@@ -1,0 +1,21 @@
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+
+# Java / Maven
+target/
+*.jar
+*.war
+*.ear
+*.class
+.mvn/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Binaries
+cloudflared.exe
